@@ -86,11 +86,9 @@
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 0.5px;
-
 }
 
-.t-d:active,
-.t-d:hover {
+.div-ul .t-d:hover {
     color: #13547a;
 }
 
@@ -1451,19 +1449,392 @@
         font-size: 13px;
     }
 
+    .h1-size {
+        font-size: 55px;
+    }
+
+}
 
 
+@media screen and (max-width: 430px) {
+    .div-nav .nav {
+        width: 45.5rem;
+    }
+
+    .first-section {
+        width: 45.5rem;
+    }
+
+    .second-section {
+        width: 45.5rem;
+    }
+
+    .third-section {
+        width: 45.5rem;
+    }
+
+    .fourth-section {
+        width: 45.5rem;
+        height: 96rem;
+    }
+
+    .Fifth-section {
+        width: 45.5rem;
+        height: 81rem;
+    }
+
+    .six-section {
+        width: 45.5rem;
+        height: 83rem
+    }
+
+    /* .footer-section {
+        width: 35rem;
+    } */
+
+    .footer-section {
+        width: 43.5rem;
+    }
+
+    .h1-size {
+        font-size: 81px;
+    }
+
+    .h6-size {
+        text-align: center;
+        color: #13547a;
+        font-size: 34px;
+        margin-top: 2rem;
+    }
+
+    .form-font {
+        margin-top: 3rem;
+        /* margin-left: 1rem; */
+    }
+
+    .input-div {
+        width: 22rem;
+        font-size: 23px;
+    }
+
+    .div-form1 {
+        width: 40rem;
+    }
+
+    .span-text img {
+        width: 46px;
+        height: 46px;
+    }
+
+    .div-form1 button {
+        font-size: 32px;
+    }
+
+    .div-form1 button {
+        border-radius: 3rem;
+    }
+
+    .first-card {
+        margin-left: 2rem;
+        width: 40rem;
+        height: 40rem;
+    }
+
+    .flex-for h5 {
+        font-size: 51px;
+    }
+
+    .flex-for p {
+        font-size: 29px;
+        margin-top: 2rem;
+    }
+
+    .box-first {
+        width: 10rem;
+        height: 60px;
+        font-size: 33px;
+        border-radius: 13px;
+    }
+
+    .first-card img {
+        margin-left: 5rem;
+        width: 29rem;
+        height: auto;
+    }
+
+    .second-card {
+        margin-left: 2rem;
+        width: 40rem;
+        height: 40rem;
+    }
+
+    .decore {
+        font-size: 51px;
+    }
+
+    .flex-for2 p {
+        margin-top: 2rem;
+        font-size: 29px;
+    }
 
 
+    .media-box {
+        width: 14rem;
+        height: 60px;
+        border-radius: 13px;
+    }
+
+    .learn-more {
+        font-size: 30px;
+    }
+
+    .div {
+        margin-top: 10rem;
+    }
+
+    .flex-img {
+        margin-top: 33px;
+        margin-left: 10px;
+    }
+
+    .p-class {
+        font-size: 33px;
+    }
+
+    .img-size img {
+        margin-left: 17px;
+        width: 40px;
+        height: 40px;
+        margin-top: 5px;
+    }
+
+    .img-last {
+        margin-left: 15rem;
+    }
+
+    /* Third-section */
+    .div-third {
+        font-size: 48px;
+    }
+
+    .media-con {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .flex-third {
+        justify-content: unset;
+    }
+
+    .btn-third {
+        font-size: 24px;
+    }
+
+    .flex {
+        padding: 2rem;
+        display: block;
+        justify-content: unset;
+        /* gap: 0; */
+    }
+
+    .default-border {
+        padding: 18px;
+        width: 41rem;
+        height: 36rem;
+        padding-top: 27px;
+    }
+
+    .media-flex {
+        display: flex;
+    }
+
+    .h5-third {
+        font-size: 47px;
+    }
+
+    .p-right {
+        font-size: 30px;
+        margin-top: 2rem;
+    }
 
 
+    .box-first1 {
+        width: 78px;
+        font-size: 33px;
+        height: 60px;
+        border-radius: 13px;
+    }
+
+    .box-first2 {
+        width: 71px;
+        font-size: 33px;
+        height: 60px;
+        border-radius: 13px;
+    }
 
 
+    .default-border {
+        margin-bottom: 4rem;
+    }
+
+    .content-justify {
+        padding-top: 4rem;
+        font-size: 45px;
+    }
+
+    .h4-four {
+        font-size: 38px;
+    }
+
+    .li-four {
+        padding: 0;
+        padding-top: 4rem;
+    }
+
+    .margin-four {
+        margin: 0 0rem;
+        margin-left: 9rem;
+    }
+
+    .ul-fourth li {
+        font-size: 25px;
+    }
+
+    .last-four {
+        gap: 3rem;
+        font-size: 35px;
+        text-align: center;
+        color: white;
+        margin-top: 5rem;
+    }
 
 
+    .last-four {
+        gap: 3rem;
+        font-size: 28px;
+        margin-top: 8rem;
+    }
 
+    .round-a {
+        font-size: 25px;
+        margin-left: 12px;
+    }
 
+    .h2-fifth {
+        font-size: 57px;
+    }
 
+    .grid-fifth {
+        display: block;
+        /* margin-top: 3rem; */
+    }
+
+    .img-fifth img {
+        max-width: 35rem;
+        height: auto;
+        margin-top: 2rem;
+        margin-left: 4.5rem;
+    }
+
+    /* Accordian */
+    .tab__label {
+        font-size: 32px;
+    }
+
+    .tab__content {
+        font-size: 25px;
+        text-align: justify;
+    }
+
+    .accordion {
+        margin-left: 1rem;
+        width: 41rem;
+        margin-top: 4rem;
+    }
+
+    .tab input:checked~.tab__content {
+        max-height: 15rem;
+    }
+
+    .h2-six {
+        font-size: 46px;
+    }
+
+    /* Map */
+    .frame {
+        margin-left: 1rem;
+        width: 41rem;
+        height: auto;
+    }
+
+    .frame iframe {
+        height: 23rem;
+    }
+
+    /* Contact */
+    .size-font-six {
+        font-size: 44px;
+    }
+
+    .headoffice {
+        padding: 0 19px;
+    }
+
+    .one hr {
+        width: 40rem;
+    }
+
+    .two hr {
+        width: 40rem;
+    }
+
+    .headoffice p {
+        font-size: 29px;
+    }
+
+    .p-last a {
+        font-size: 23px;
+    }
+
+    .flex-footer {
+        display: block;
+    }
+
+    .media-topic img {
+        width: 4rem;
+        height: auto;
+    }
+
+    .media-topic span {
+        margin-top: 1px;
+        font-size: 47px;
+    }
+
+    .h6-six {
+        font-size: 41px;
+        margin-top: 3rem;
+        margin-bottom: 10px;
+    }
+
+    .ul-li {
+        font-size: 25px;
+    }
+
+    .english-btn {
+        margin-top: 3rem;
+    }
+
+    .btn-footer {
+        font-size: 25px;
+    }
+
+    .div-p p {
+        font-size: 24px;
+    }
+
+    .last-border {
+        width: 45.5rem;
+    }
 
 
 }
