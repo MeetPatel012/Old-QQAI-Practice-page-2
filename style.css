@@ -1837,4 +1837,51 @@
     }
 
 
+    /* navbar Section */
+
+    .div-second-nav {
+        height: 127px;
+    }
+
+    .topic img {
+        width: 67px;
+    }
+
+    .topic span {
+        margin-top: 0px;
+        font-size: 55px;
+    }
+
+    .div-ul {
+        display: block;
+    }
+
+    .profile-icon img {
+        width: 69px;
+        height: auto;
+    }
+
+    .profile-icon {
+        margin-left: 8rem;
+    }
+
+    .topic {
+        margin-left: 5px;
+    }
+
+    .first-section {
+        padding-top: 16rem;
+    }
+
+    /* hamburger menu */
+
+    
+
+
+
+
+
+
+
+
 }
